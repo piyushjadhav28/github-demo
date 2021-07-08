@@ -4,15 +4,10 @@ def add(x,y):
 
 #SUBTRACT
 def subtract(x,y):
-    return x-y          #on master branch
-
+    return x-y          
 #MULTIPLY
 def multiply(x,y):
-    return x*y          #on Bug456 branch
-
+    return x*y          
 #DIVIDE
-def divide(x,y):        #on Bug789 branch
-    if y==0:
-        return DIVIDE_BY_0_ERROR
-    else:
-        return x/y
+def divide(x,y):        
+return x/y
