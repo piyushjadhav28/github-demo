@@ -9,7 +9,7 @@ def subtract(x,y):
 
 #Multiply() implementation
 def multiply(x,y):
-    pass
+    return x*y
 
 #Divide()  implmenetation
 def divide(x,y):
